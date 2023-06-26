@@ -36,3 +36,23 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## MONGO DB
+
+> npm install mongodb
+> npm i mongodb mongose
+
+1- Create the project
+2- Create the database
+3- Create the connection
+
+<ol>
+    <li>Create the project</li>
+    <li>Create the database</li>
+    <li>Create the connection</li>
+</ol>
+
+<ul>
+    <li>Create folder "utils"</li>
+    <li>Create file connectDB.ts</li>
+</ul>    
